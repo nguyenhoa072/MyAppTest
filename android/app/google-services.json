@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256408849779",
+    "firebase_url": "https://hoant-74fb4.firebaseio.com",
+    "project_id": "hoant-74fb4",
+    "storage_bucket": "hoant-74fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256408849779:android:1b75c200f6f85daa844906",
+        "android_client_info": {
+          "package_name": "com.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256408849779-j4lkku6suka4pt9aq3782vpe86he5d9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTjbaC2bmEkgLn9GShPHWluchczAJ3ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256408849779-j4lkku6suka4pt9aq3782vpe86he5d9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
